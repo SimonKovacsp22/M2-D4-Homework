@@ -51,7 +51,7 @@ body {
     height: 50px;
     min-width: 50px;
     border-radius: 50%;
-    background-image: url("avatar-1.jpg");
+    background-image: url("assets/avatar-1.jpg");
     background-size: cover;
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 .purple-content-right-image {
-    background-image: url('hero-img.png');
+    background-image: url('assets/hero-img.png');
     height: 100%;
     width:33%;
     background-repeat: no-repeat;
